@@ -1,6 +1,6 @@
 # DANA Valencia Observations
 
-Writing some thoughts here about the coordination during the DANA in Valencia and how it can be improved (e.g. with a more central platform to organise donations or help). Hopefully one can also learn how to be better prepared for the future with these observations.
+Writing some thoughts here about the coordination after the DANA in Valencia and how it can be improved (e.g. with a more central platform to organise donations or help). Hopefully one can also learn how to be better prepared for the future with these observations.
 
 The main purpose of this repo is to create some form of helpful tool for those affected in Valencia due to the DANA. We have been volunteering in different affected zones and there seems to be little to no coordination on e.g. the distribution of donations. Me and some other volunteers were in Catarroja e.g. yesterday and there were donated clothes in piles (becoming dirty from just being dumped on the ground) in the gas station. There are also different buildings that have turned into donation stations but there is no central platform where there is information about this. 
 
